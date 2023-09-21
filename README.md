@@ -4,7 +4,7 @@
 ***Negrita e italica***
 ## Introducción
 
-> NOTA: Esto debe realizarse en Java
+
 >
 > Otra línea de *nota*
 > El comando `dir` sirve para hacer listado de un directorio
